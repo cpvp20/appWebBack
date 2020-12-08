@@ -1,0 +1,7 @@
+{
+    "dbuser":"dev",
+    "dbpsw":"dev",
+    "dbcluster": "cluster0",
+    "dbname": "plataforma"
+}
+
